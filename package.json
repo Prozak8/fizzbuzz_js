@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz_js_zak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prozak8/fizzbuzz_js.git"
+  },
+  "author": "Zak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prozak8/fizzbuzz_js/issues"
+  },
+  "homepage": "https://github.com/Prozak8/fizzbuzz_js#readme"
+}
